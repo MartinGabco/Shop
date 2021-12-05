@@ -1,0 +1,12 @@
+.menu {
+    width: 50%;
+    height: 2em;
+    padding-top: 1.25em;
+    list-style: none;
+}
+
+a {
+    padding-right: 1em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
